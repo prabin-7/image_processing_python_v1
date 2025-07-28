@@ -1,3 +1,5 @@
 .env
 
 env/
+venv_img/
+# venv_img
